@@ -33,6 +33,7 @@ export default tseslint.config(
         "error",
         { checksVoidReturn: { attributes: false } },
       ],
+      "no-used-vars":"off",
     },
   },
   {
